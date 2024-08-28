@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi I'm Laura Altarriba👋
 
 Me llamo Laura, me gusta programar y dejar mis projectos por aqui
+Soy Full Strack tirando a Backend
+
+- 🎖️ Multiplatform developed certified at 'Politecnic de Catalunya'
 
 <img src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="100" />
   

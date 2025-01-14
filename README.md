@@ -1,7 +1,6 @@
 ## Hi I'm Laura Altarriba👋
 
-Me llamo Laura, me gusta programar y dejar mis projectos por aqui
-Soy Full Strack tirando a Backend
+Me llamo Laura, me gusta programar y dejar mis projectos por aqui. Soy Backend.
 
 - 🎖️ Multiplatform developed certified at 'Politecnic de Catalunya'
 

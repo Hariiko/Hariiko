@@ -1,9 +1,9 @@
-## Hi I'm Laura Altarriba👋
+## Hola soy Laura Altarriba👋
 
-Me llamo Laura, me gusta programar y dejar mis projectos por aqui.
+Me gusta programar y dejar mis projectos por aqui.
 
 - Multiplatform developed certified at 'Politecnic de Catalunya'
-
+-Actualmente haciendo "Desenvolupamiento de paginas web"
 <img src="https://media.tenor.com/0ygiqFaX-ssAAAAM/bongo-cat-typing.gif" width="100" />
   
 
